@@ -1,0 +1,11 @@
+.center{
+  transition: transform 0.5s;
+}
+
+
+.light{
+  background:rgb(209, 207, 207);
+}
+.dark{
+  background:rgb(24, 23, 23);
+}

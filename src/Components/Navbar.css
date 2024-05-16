@@ -1,0 +1,20 @@
+.nav-bar-padding{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.nav-dec{
+  font-size:20px;
+  margin-left: 20px;
+}
+.nav-dec:hover{
+  text-decoration: underline;
+}
+
+.anchor-link{
+  text-decoration: none;
+}
+.image-bg{
+  background: rgb(5, 11, 38);
+  width:170px;
+  padding: 10px;
+}

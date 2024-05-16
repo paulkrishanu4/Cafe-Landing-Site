@@ -1,0 +1,40 @@
+.footer{
+  display:flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items:center;
+  background: rgb(35, 35, 72);
+  padding: 20px;
+  margin-top: 100px;
+}
+
+.footer img{
+  height:50px;
+  width:120px;
+}
+.row{
+  display:flex;
+  flex-direction: row;
+  text-align: center;
+  width: 100%;
+}
+.icons{
+  font-size:40px;
+  color:white;
+  display: flex;
+  gap:20px;
+}
+#i1{
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+#i1:hover{
+  transform:scale(1.2);
+}
+.footer p,.footer h3,.footer h5,.footer h1{
+  color:white;
+}
+
+.dark .footer{
+  background:rgb(38, 37, 37);
+}

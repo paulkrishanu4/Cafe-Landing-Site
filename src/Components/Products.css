@@ -1,0 +1,31 @@
+.product-images{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.product-images img{
+  margin: 30px;
+}
+.product1{
+  text-align: center;
+}
+.header{
+  text-align: center;
+  margin-top:50px;
+}
+.dark h4{
+  color:white;
+}
+
+.header h1{
+  font-weight:800;
+  font-size: 40px;
+}
+.ad{
+  margin-top:100px;
+  margin-bottom: 100px;
+}
+.ad img{
+  max-width: 100%;
+}

@@ -1,0 +1,9 @@
+h5{
+  margin: 50px;
+  display: flex;
+  justify-content: flex-end;
+  cursor: pointer;
+}
+.dark h5{
+  color:white;
+}
